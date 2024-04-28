@@ -1,6 +1,6 @@
 整理来源于：
 
-https://agit.ai/Yoursmile7/TVBox.git
+http://152.32.170.60/Yoursmile7/TVBox.git
 
 https://github.com/FongMi/CatVodSpider.git
 
