@@ -2,7 +2,7 @@
 
 https://github.com/loopool/fan
 
-https://github.com/yoursmile66/TVBox
+https://github.com/qist/tvbox
 
 https://github.com/FongMi/CatVodSpider.git
 
